@@ -2,6 +2,7 @@ Hi, my name is Jacob.
 I'm interested in machine learning, software engineering, and robotics.
 I'm currently enrolled in WPI majoring in Computer Science.
 
+<img height=500px src="https://cdn.discordapp.com/attachments/701535716022288436/1127416953582145546/If_you_see_this_say_hi.JPG"/> 
 
 <img src="https://komarev.com/ghpvc/?username=jrma14&label=Profile%20views&color=blue&style=plastic"
     alt="jrma14" /> 
