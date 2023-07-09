@@ -39,6 +39,10 @@
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <p>
     <img width=50% src="https://streak-stats.demolab.com/?user=jrma14&mode=weekly&theme=dark"/><img align="top" width=50% src="https://github-profile-trophy.vercel.app/?username=jrma14&theme=juicyfresh&no-bg=true" />
 </p>
