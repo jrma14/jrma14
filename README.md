@@ -8,11 +8,11 @@
 <hr>
 <table>
     <tr>
-        <th>I'm currently a software engineering intern at Fidelity Investments</th>
+        <!--<th>I'm currently a software engineering intern at Fidelity Investments</th>-->
         <th>I'm also currently enrolled in WPI pursuing a masters in Computer Science</th>
     </tr>
     <tr>
-        <td align="center"><img height=100px src="https://logos-world.net/wp-content/uploads/2021/02/Fidelity-Logo.png"/></td>
+        <!--<td align="center"><img height=100px src="https://logos-world.net/wp-content/uploads/2021/02/Fidelity-Logo.png"/></td>-->
         <td align="center"><img height=100px src="https://cdn.discordapp.com/attachments/701535716022288436/1127635226168930305/WPI_Inst_Prim_FulClr.png"/></td>
     </tr>
 </table>
